@@ -1,0 +1,6 @@
+step 1-create a header file.
+step 2-declare the integers a,b,c.
+step 3-give the values for a & b.
+step 4-write the statements of code like addition,substraction & division.
+step 5-print the values of c using printf operation.
+step 6-end program.
